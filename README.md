@@ -1,4 +1,4 @@
-# flutter_plugin_1
+# SSockets
 
 A new Flutter plugin project.
 
