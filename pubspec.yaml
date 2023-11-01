@@ -1,0 +1,21 @@
+name: s_sockets
+description: Siltium Socket Package
+version: 0.1.0
+homepage: https://github.com/imontaldi/s_image_upload
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  socket_io_client: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
